@@ -1,0 +1,4 @@
+> Convert PDF document information into markdown. ALONG WITH IMAGES
+> Come up with timeline. 
+> Add initial timeline to markdown
+> How images are stored in OpenCV. (CV matrix)
