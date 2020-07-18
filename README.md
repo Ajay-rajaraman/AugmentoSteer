@@ -22,3 +22,6 @@ As mentioned earlier, the steering of the block is done using a camera input (pr
 
 
 ![gameExplanation-02 222](https://user-images.githubusercontent.com/66733698/87847890-fff65600-c8f8-11ea-88eb-bb335206bd84.png)
+
+## TIMELINE
+![duration](https://user-images.githubusercontent.com/66733698/87852400-4c548c80-c91f-11ea-8710-3565a0f40928.jpg)
