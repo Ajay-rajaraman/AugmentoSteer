@@ -10,4 +10,4 @@
 > Write a small report that explains the concepts. OPTIONAL : This report can be in markdown.
 > write another function : convertImageToGray with one argument : the image. That converts the image to grayscale. Display this image using imshow
 
-Note: function names are to be retained in camelCase. 
+Note: function names are to be retained in camelCase.
