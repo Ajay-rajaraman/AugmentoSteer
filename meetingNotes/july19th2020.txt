@@ -1,0 +1,13 @@
+> Python RGB extraction code has to be modified into function
+	> one function extractLayer with 2 arguments : image, layer number
+	> modify main code to call function and separate R,G,B layers
+> Understand the different image color spaces in image processing
+	> RGB color space
+	> Grayscale
+	> HSV
+	> YCbCr
+	> The understanding should be in the following concepts: What it is, Use case, difference between each
+> Write a small report that explains the concepts. OPTIONAL : This report can be in markdown.
+> write another function : convertImageToGray with one argument : the image. That converts the image to grayscale. Display this image using imshow
+
+Note: function names are to be retained in camelCase. 
