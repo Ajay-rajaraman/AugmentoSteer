@@ -1,14 +1,10 @@
 import cv2
 
 
-def extractLayer(c):
-    channel = img[:,:,c]
-    if(c==0):
-        cv2.imshow('blue',channel)
-    elif(c==1):
-        cv2.imshow('green',channel)
-    elif(c==2):
-        cv2.imshow('red',channel)
+def extractLayer(b,c,d):
+    channel = b[:,:,c]
+    cv2.imshow(d[c] ,channel)
+    
  
     cv2.waitKey(0)
 
@@ -24,7 +20,8 @@ def extractLayer(c):
 
 img = cv2.imread('C:\\Users\\ajayr\\OneDrive\\Documents\\MyProjects\\AugmentoSteer\\testImages\\understanding opencv\\extractRGBComponents.png')
 x=int(input("enter the number"))
-extractLayer(x)
+t={0:'blue',1:'green',2:'red'}
+extractLayer(img,x,t)
 
 
 

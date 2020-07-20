@@ -1,0 +1,12 @@
+> write a function thresholdObject that takes in 2 parameters: 
+	1. image
+	2. threshold list [R,G,B]
+
+> the function has to be implemented in such a way that only value among the threshold values will be non-zero
+
+> return the corresponding layer :R /G /B. After thresholding the values in such a way that pixels with value less than threshold is set to zero.
+
+> use this mask that is returned on the original image to extract information from it. 
+
+> MOST IMPORTANT ASPECT : you are NOT allowed to use OpenCV's threshold function to perform the thresholding. 
+> You are also NOT allowed to copy code.
