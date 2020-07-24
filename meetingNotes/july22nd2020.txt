@@ -1,0 +1,14 @@
+> write a function (computeSobelEdges) to run the sobel edge detection algorithm. This function should accept :
+	1. kernel size
+	2. horizontal/vertical : string
+	3. image
+	4. stride length
+
+> go through opencv techniques to resize image (cv2.imresize)
+
+> go through other edge detection algorithms such as Canny and prewitt
+	> write a report on this by the end of the day. Include Sobel as well in the report. 
+	The report should not contain any plagiarized materials
+
+
+ 

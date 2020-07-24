@@ -1,0 +1,6 @@
+> kernel operations on images
+ -- > I will be teaching you
+> Using kernel operations for edge detection : Sobel edge detection
+> python function to extract vertical edge and horizontal edges from image --> NO online referring business
+	> parameters that you have to accept from user should be : KERNEL SIZE (n)
+> understanding opencv edge detection function call syntaxes --> can refer online material

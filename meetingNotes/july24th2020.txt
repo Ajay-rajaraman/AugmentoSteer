@@ -1,0 +1,5 @@
+> Complete tasks provided on the 24th (Function creation, Horizontal and Vertical edge detection and incorporating all such edges into one image)
+
+> Understand different filters that are applied on images. Specifically read up about Gaussian filter and its implementation
+
+
